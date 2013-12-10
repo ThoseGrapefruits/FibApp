@@ -11,7 +11,6 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-	
 }
 
 - (double)fibonacci:(int)number
